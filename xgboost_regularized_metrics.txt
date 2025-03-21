@@ -1,0 +1,4 @@
+Performance Metrics:
+RMSE: 29664.71
+MAE: 21591.54
+R2: 0.9726
